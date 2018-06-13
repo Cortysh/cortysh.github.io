@@ -1,0 +1,23 @@
+
+
+
+p {
+    font-family: "Noto Sans";
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.titolo {
+    font-family: "Nunito";
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.sottotitolo {
+    font-family: "Roboto";
+}
+
+.canzoni {
+    font-family: "Noto Sans";
+    text-align: unset;
+}
